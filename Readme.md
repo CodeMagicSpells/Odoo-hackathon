@@ -21,4 +21,6 @@ Our goal is to reduce waste, extend the lifecycle of goods, and create a trusted
 [React / Flutter / Node.js / Python / MySQL]  - not fully decided yet :)
 
 ## Current Status
-Building a functional prototype for both desktop and mobile with core features ready.  
+Building a functional prototype for both desktop and mobile with core features ready. 
+
+## Failed to make the Finished Product  
